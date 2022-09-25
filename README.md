@@ -1,4 +1,4 @@
-Hello, I'm @absentnabi. 
+Hello, GITHUB community. I'm @absentnabi. 
 I’m interested in software development and website design. 
 I just started my coding journey and I am learning learning HTML and CSS. (any tips for what to focus on next?)
 I’m looking to contribute and collaborate anywhere I can be of help. 
