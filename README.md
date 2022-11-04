@@ -1,6 +1,6 @@
 Hello, GITHUB community. I'm @absentnabi. 
-I’m interested in software development and website design. 
-I just started my coding journey and I am learning learning HTML and CSS. (any tips for what to focus on next?)
+I’m interested in software development, website design and gaming.  
+I started my coding journey this year with HTML and CSS. Now, I'm trying to learn Javascript. 
 I’m looking to contribute and collaborate anywhere I can be of help. 
 Email: absentnabi@gmail.com
 
